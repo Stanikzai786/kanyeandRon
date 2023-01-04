@@ -1,0 +1,17 @@
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\bin\Debug\net6.0\KanyeandRon.exe
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\bin\Debug\net6.0\KanyeandRon.deps.json
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\bin\Debug\net6.0\KanyeandRon.runtimeconfig.json
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\bin\Debug\net6.0\KanyeandRon.dll
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\bin\Debug\net6.0\KanyeandRon.pdb
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\obj\Debug\net6.0\KanyeandRon.csproj.AssemblyReference.cache
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\obj\Debug\net6.0\KanyeandRon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\obj\Debug\net6.0\KanyeandRon.AssemblyInfoInputs.cache
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\obj\Debug\net6.0\KanyeandRon.AssemblyInfo.cs
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\obj\Debug\net6.0\KanyeandRon.csproj.CoreCompileInputs.cache
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\obj\Debug\net6.0\KanyeandRon.csproj.CopyComplete
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\obj\Debug\net6.0\KanyeandRon.dll
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\obj\Debug\net6.0\refint\KanyeandRon.dll
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\obj\Debug\net6.0\KanyeandRon.pdb
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\obj\Debug\net6.0\KanyeandRon.genruntimeconfig.cache
+C:\Users\sheki\OneDrive\Desktop\Repos\KanyeandRon\KanyeandRon\obj\Debug\net6.0\ref\KanyeandRon.dll
